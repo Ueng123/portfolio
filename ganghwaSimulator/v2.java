@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class game {
+public class v2 {
 
     public static boolean percent(int p) {
         return (Math.random() <= p/100);
