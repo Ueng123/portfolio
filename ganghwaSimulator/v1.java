@@ -4,7 +4,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 
-public class ganghwaSimulator {
+public class v1 {
     
     public static int ganghwa = 0;
     public static int atkdmg = 100;
